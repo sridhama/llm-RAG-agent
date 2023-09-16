@@ -1,0 +1,7 @@
+transformers
+openai
+pypdf2
+tiktoken
+sentencepiece
+langchain
+faiss-cpu
