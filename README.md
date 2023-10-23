@@ -21,8 +21,8 @@ Before you begin, ensure you have met the following requirements:
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/sridhama/financial-rag-agent-llm
-   cd financial-rag-agent-llm
+   git clone https://github.com/sridhama/llm-rag-agent
+   cd llm-rag-agent
    ```
 
 3. Install the required packages:
